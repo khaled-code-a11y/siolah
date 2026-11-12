@@ -1,0 +1,6 @@
+# robots.txt for Al-Soyoula Al-Fawriya
+User-agent: *
+Allow: /
+
+# Sitemap Link
+Sitemap: https://trust-t.net/sitemap.xml
